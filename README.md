@@ -45,7 +45,7 @@ The analysis identified approximately **10.8%** of the area of Baden-Württember
 
 The project also demonstrated how GIS can support spatial decision-making by combining multiple datasets into a reproducible workflow.
 
-![Results_picture](Baden_wuerttemberg_Wohnorte_Print.pdf)
+![Results_picture](main/Baden_wuerttemberg_Wohnorte_Print.pdf)
 
 ---
 
